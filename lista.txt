@@ -1,0 +1,4 @@
+-Git add
+envia los cambios al stage area(area intermendia)
+-Git commit
+envia los cambios al repositorio local
